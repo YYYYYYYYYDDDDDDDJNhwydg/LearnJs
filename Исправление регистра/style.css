@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    margin: 1rem;
+    padding: 1rem;
+    font-size: 3rem
+}
+
+.output ul{
+    font-size: 2rem;
+
+}

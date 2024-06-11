@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+
+.tile {
+    height: 100px;
+    width: 25%;
+    float: left;
+}
